@@ -52,9 +52,9 @@ php artisan serve
 ```
 10. Доступ к приложению
     1.  Откройте в браузере: http://localhost:8000
-    2.  Введите данных для входа администратора
-        1.  Email: admin@gmail.com
-        2.  Пароль: adminadmin
+    2.  Введите данные для входа администратора
+        -  Email: admin@gmail.com
+        -  Пароль: adminadmin
 
 ### Возможные проблемы
 
