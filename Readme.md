@@ -77,44 +77,44 @@ php artisan view:clear
 ## Основной функционал
 
 ### 1. Главная страница
-![alt text](screenshots\image.png)
+![alt text](screenshots/image.png)
 - Отображение категорий товаров
 - Рекомендуемые продукты
 - Адаптивный дизайн с молдавскими мотивами
 
 ### 2. Каталог товаров
-![alt text](screenshots\image-6.png)
+![alt text](screenshots/image-6.png)
 - Отображение всех доступных товаров
 - Фильтрация по категориям
 - Кликабельные изображения товаров
 
 ### 3. Карточка товара
-![alt text](screenshots\image-1.png)
+![alt text](screenshots/image-1.png)
 - Детальная информация о товаре
 - Цена в MDL
 - Возможность добавления в корзину
 - Количество товара на складе
 
 ### 4. Корзина
-![alt text](screenshots\image-2.png)
+![alt text](screenshots/image-2.png)
 - Управление количеством товаров
 - Расчет общей стоимости
 - Удаление товаров из корзины
 
 ### 5. Оформление заказа
-![alt text](screenshots\image-3.png)
+![alt text](screenshots/image-3.png)
 - Форма с контактной информацией
 - Адрес доставки
 - Примечания к заказу
 
 ### 6. Личный кабинет
-![alt text](screenshots\image-4.png)
+![alt text](screenshots/image-4.png)
 - История заказов
 - Управление профилем
 - Изменение пароля
 
 ### 7. Админ-панель
-![alt text](screenshots\image-5.png)
+![alt text](screenshots/image-5.png)
 - Управление товарами
 - Управление категориями
 - Просмотр и управление заказами
